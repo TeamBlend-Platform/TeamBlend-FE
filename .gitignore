@@ -35,6 +35,7 @@ frontend/.env.local
 # ====================================================================
 # SUH-DEVOPS-TEMPLATE: Auto-added entries
 # ====================================================================
+CLAUDE.md
 /.claude
 /.report
 SUH-DEVOPS-TEMPLATE-SETUP-GUIDE.md
